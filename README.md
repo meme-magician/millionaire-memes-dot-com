@@ -1,1 +1,1 @@
-# millionaire-memes-dot-com
+# bitcoin-puppets-memes

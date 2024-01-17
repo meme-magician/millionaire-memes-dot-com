@@ -1,0 +1,594 @@
+[
+    {
+        "src": "./assets/shirts/Red-shirt.png",
+        "name": "Red-shirt"
+    },
+    {
+        "src": "./assets/shirts/Double-striped-shirt.png",
+        "name": "Double-striped-shirt"
+    },
+    {
+        "src": "./assets/shirts/Hawaian.png",
+        "name": "Hawaian"
+    },
+    {
+        "src": "./assets/shirts/Dungarees.png",
+        "name": "Dungarees"
+    },
+    {
+        "src": "./assets/shirts/Casanova-pleb.png",
+        "name": "Casanova-pleb"
+    },
+    {
+        "src": "./assets/shirts/Green-jersery.png",
+        "name": "Green-jersery"
+    },
+    {
+        "src": "./assets/shirts/Inmate.png",
+        "name": "Inmate"
+    },
+    {
+        "src": "./assets/shirts/Packs.png",
+        "name": "Packs"
+    },
+    {
+        "src": "./assets/shirts/Shef-life.png",
+        "name": "Shef-life"
+    },
+    {
+        "src": "./assets/shirts/Time.png",
+        "name": "Time"
+    },
+    {
+        "src": "./assets/shirts/Casanova.png",
+        "name": "Casanova"
+    },
+    {
+        "src": "./assets/shirts/Pilkroad.png",
+        "name": "Pilkroad"
+    },
+    {
+        "src": "./assets/shirts/No-2nd-best.png",
+        "name": "No-2nd-best"
+    },
+    {
+        "src": "./assets/shirts/Bretels.png",
+        "name": "Bretels"
+    },
+    {
+        "src": "./assets/shirts/Peo.png",
+        "name": "Peo"
+    },
+    {
+        "src": "./assets/shirts/Jacket.png",
+        "name": "Jacket"
+    },
+    {
+        "src": "./assets/shirts/Pimp.png",
+        "name": "Pimp"
+    },
+    {
+        "src": "./assets/shirts/Ketamine.png",
+        "name": "Ketamine"
+    },
+    {
+        "src": "./assets/shirts/Bitcoin-monk.png",
+        "name": "Bitcoin-monk"
+    },
+    {
+        "src": "./assets/shirts/Conviction.png",
+        "name": "Conviction"
+    },
+    {
+        "src": "./assets/shirts/Denim-jacket.png",
+        "name": "Denim-jacket"
+    },
+    {
+        "src": "./assets/shirts/Partial-button-down.png",
+        "name": "Partial-button-down"
+    },
+    {
+        "src": "./assets/shirts/Dungarees-brown.png",
+        "name": "Dungarees-brown"
+    },
+    {
+        "src": "./assets/shirts/Blue-denim-jacket.png",
+        "name": "Blue-denim-jacket"
+    },
+    {
+        "src": "./assets/shirts/Tie-dye.png",
+        "name": "Tie-dye"
+    },
+    {
+        "src": "./assets/shirts/Bathrobe.png",
+        "name": "Bathrobe"
+    },
+    {
+        "src": "./assets/shirts/Striped-shirt.png",
+        "name": "Striped-shirt"
+    },
+    {
+        "src": "./assets/shirts/Dungarees-painter.png",
+        "name": "Dungarees-painter"
+    },
+    {
+        "src": "./assets/shirts/Memepool-shirt.png",
+        "name": "Memepool-shirt"
+    },
+    {
+        "src": "./assets/shirts/Toga2.png",
+        "name": "Toga2"
+    },
+    {
+        "src": "./assets/shirts/Bitcoin-shirt.png",
+        "name": "Bitcoin-shirt"
+    },
+    {
+        "src": "./assets/shirts/Op-return.png",
+        "name": "Op-return"
+    },
+    {
+        "src": "./assets/shirts/Bitcoin-bathrobe.png",
+        "name": "Bitcoin-bathrobe"
+    },
+    {
+        "src": "./assets/shirts/God-likes-elephants.png",
+        "name": "God-likes-elephants"
+    },
+    {
+        "src": "./assets/shirts/Pup-fc.png",
+        "name": "Pup-fc"
+    },
+    {
+        "src": "./assets/shirts/Neat-shirt.png",
+        "name": "Neat-shirt"
+    },
+    {
+        "src": "./assets/shirts/Finance-bro.png",
+        "name": "Finance-bro"
+    },
+    {
+        "src": "./assets/shirts/Ballin.png",
+        "name": "Ballin"
+    },
+    {
+        "src": "./assets/shirts/Hoodie.png",
+        "name": "Hoodie"
+    },
+    {
+        "src": "./assets/body/Bitcoin-staff.png",
+        "name": "Bitcoin-staff"
+    },
+    {
+        "src": "./assets/body/Watch.png",
+        "name": "Watch"
+    },
+    {
+        "src": "./assets/body/Zhengshan.png",
+        "name": "Zhengshan"
+    },
+    {
+        "src": "./assets/body/Red-pep-drink.png",
+        "name": "Red-pep-drink"
+    },
+    {
+        "src": "./assets/body/Wossum.png",
+        "name": "Wossum"
+    },
+    {
+        "src": "./assets/body/Crayons.png",
+        "name": "Crayons"
+    },
+    {
+        "src": "./assets/body/Memepool.png",
+        "name": "Memepool"
+    },
+    {
+        "src": "./assets/body/Keyboard.png",
+        "name": "Keyboard"
+    },
+    {
+        "src": "./assets/body/Sin-note.png",
+        "name": "Sin-note"
+    },
+    {
+        "src": "./assets/body/Body.png",
+        "name": "Body"
+    },
+    {
+        "src": "./assets/body/Beans.png",
+        "name": "Beans"
+    },
+    {
+        "src": "./assets/body/Chefs-spatula.png",
+        "name": "Chefs-spatula"
+    },
+    {
+        "src": "./assets/body/Hot-dog.png",
+        "name": "Hot-dog"
+    },
+    {
+        "src": "./assets/body/Hamburger.png",
+        "name": "Hamburger"
+    },
+    {
+        "src": "./assets/body/Beer.png",
+        "name": "Beer"
+    },
+    {
+        "src": "./assets/body/Wine.png",
+        "name": "Wine"
+    },
+    {
+        "src": "./assets/body/Choco-milk.png",
+        "name": "Choco-milk"
+    },
+    {
+        "src": "./assets/body/Plush-bunny.png",
+        "name": "Plush-bunny"
+    },
+    {
+        "src": "./assets/body/Running-bitcoin.png",
+        "name": "Running-bitcoin"
+    },
+    {
+        "src": "./assets/body/Coffee-time.png",
+        "name": "Coffee-time"
+    },
+    {
+        "src": "./assets/body/Ramen.png",
+        "name": "Ramen"
+    },
+    {
+        "src": "./assets/body/Ice-cream.png",
+        "name": "Ice-cream"
+    },
+    {
+        "src": "./assets/body/Ban-hammer.png",
+        "name": "Ban-hammer"
+    },
+    {
+        "src": "./assets/body/Glue.png",
+        "name": "Glue"
+    },
+    {
+        "src": "./assets/body/Pep-drink.png",
+        "name": "Pep-drink"
+    },
+    {
+        "src": "./assets/body/Chefs-knife.png",
+        "name": "Chefs-knife"
+    },
+    {
+        "src": "./assets/body/Vanilla-goblet.png",
+        "name": "Vanilla-goblet"
+    },
+    {
+        "src": "./assets/body/Banana.png",
+        "name": "Banana"
+    },
+    {
+        "src": "./assets/body/Handheld.png",
+        "name": "Handheld"
+    },
+    {
+        "src": "./assets/body/Car-keys.png",
+        "name": "Car-keys"
+    },
+    {
+        "src": "./assets/body/Skateboard.png",
+        "name": "Skateboard"
+    },
+    {
+        "src": "./assets/body/Pizza.png",
+        "name": "Pizza"
+    },
+    {
+        "src": "./assets/body/Bong.png",
+        "name": "Bong"
+    },
+    {
+        "src": "./assets/body/Toilet-paper.png",
+        "name": "Toilet-paper"
+    },
+    {
+        "src": "./assets/body/Shadowy-figure.png",
+        "name": "Shadowy-figure"
+    },
+    {
+        "src": "./assets/body/Purple-drink.png",
+        "name": "Purple-drink"
+    },
+    {
+        "src": "./assets/body/Staff.png",
+        "name": "Staff"
+    },
+    {
+        "src": "./assets/body/Weed.png",
+        "name": "Weed"
+    },
+    {
+        "src": "./assets/body/Candle-stick.png",
+        "name": "Candle-stick"
+    },
+    {
+        "src": "./assets/body/Bag.png",
+        "name": "Bag"
+    },
+    {
+        "src": "./assets/mouth/Vanilla.png",
+        "name": "Vanilla"
+    },
+    {
+        "src": "./assets/mouth/Cigarette.png",
+        "name": "Cigarette"
+    },
+    {
+        "src": "./assets/mouth/Cigar.png",
+        "name": "Cigar"
+    },
+    {
+        "src": "./assets/mouth/Rainbow-puke.png",
+        "name": "Rainbow-puke"
+    },
+    {
+        "src": "./assets/mouth/Pipe.png",
+        "name": "Pipe"
+    },
+    {
+        "src": "./assets/hat/Chique-hat.png",
+        "name": "Chique-hat"
+    },
+    {
+        "src": "./assets/hat/Mushroom.png",
+        "name": "Mushroom"
+    },
+    {
+        "src": "./assets/hat/Headphones.png",
+        "name": "Headphones"
+    },
+    {
+        "src": "./assets/hat/Purple-sweatband.png",
+        "name": "Purple-sweatband"
+    },
+    {
+        "src": "./assets/hat/Dance.png",
+        "name": "Dance"
+    },
+    {
+        "src": "./assets/hat/Flower-bucket.png",
+        "name": "Flower-bucket"
+    },
+    {
+        "src": "./assets/hat/Top-hat.png",
+        "name": "Top-hat"
+    },
+    {
+        "src": "./assets/hat/Bitcoin-crown.png",
+        "name": "Bitcoin-crown"
+    },
+    {
+        "src": "./assets/hat/Occultist.png",
+        "name": "Occultist"
+    },
+    {
+        "src": "./assets/hat/Strainer.png",
+        "name": "Strainer"
+    },
+    {
+        "src": "./assets/hat/Bamboo-hat.png",
+        "name": "Bamboo-hat"
+    },
+    {
+        "src": "./assets/hat/Ushanka.png",
+        "name": "Ushanka"
+    },
+    {
+        "src": "./assets/hat/Miner.png",
+        "name": "Miner"
+    },
+    {
+        "src": "./assets/hat/Grey-cap-backwards.png",
+        "name": "Grey-cap-backwards"
+    },
+    {
+        "src": "./assets/hat/Pink-cap-backwards.png",
+        "name": "Pink-cap-backwards"
+    },
+    {
+        "src": "./assets/hat/Pyjama-hat.png",
+        "name": "Pyjama-hat"
+    },
+    {
+        "src": "./assets/hat/White-phat.png",
+        "name": "White-phat"
+    },
+    {
+        "src": "./assets/hat/Bitcoin-cap.png",
+        "name": "Bitcoin-cap"
+    },
+    {
+        "src": "./assets/hat/Yellow-phat.png",
+        "name": "Yellow-phat"
+    },
+    {
+        "src": "./assets/hat/Body.png",
+        "name": "Body"
+    },
+    {
+        "src": "./assets/hat/Gnome-hat.png",
+        "name": "Gnome-hat"
+    },
+    {
+        "src": "./assets/hat/Orange-beanie.png",
+        "name": "Orange-beanie"
+    },
+    {
+        "src": "./assets/hat/Wizard-hat.png",
+        "name": "Wizard-hat"
+    },
+    {
+        "src": "./assets/hat/Construction-helmet.png",
+        "name": "Construction-helmet"
+    },
+    {
+        "src": "./assets/hat/Halo.png",
+        "name": "Halo"
+    },
+    {
+        "src": "./assets/hat/Cooking-pan.png",
+        "name": "Cooking-pan"
+    },
+    {
+        "src": "./assets/hat/Blue-phat.png",
+        "name": "Blue-phat"
+    },
+    {
+        "src": "./assets/hat/Green-phat.png",
+        "name": "Green-phat"
+    },
+    {
+        "src": "./assets/hat/Red-bandana.png",
+        "name": "Red-bandana"
+    },
+    {
+        "src": "./assets/hat/Red-cap-backwards.png",
+        "name": "Red-cap-backwards"
+    },
+    {
+        "src": "./assets/hat/Wif.png",
+        "name": "Wif"
+    },
+    {
+        "src": "./assets/hat/Alien.png",
+        "name": "Alien"
+    },
+    {
+        "src": "./assets/hat/Red-phat.png",
+        "name": "Red-phat"
+    },
+    {
+        "src": "./assets/hat/Gray-beanie.png",
+        "name": "Gray-beanie"
+    },
+    {
+        "src": "./assets/hat/Bandana.png",
+        "name": "Bandana"
+    },
+    {
+        "src": "./assets/hat/Autism.png",
+        "name": "Autism"
+    },
+    {
+        "src": "./assets/hat/Daisy-flower.png",
+        "name": "Daisy-flower"
+    },
+    {
+        "src": "./assets/hat/Opium.png",
+        "name": "Opium"
+    },
+    {
+        "src": "./assets/hat/Dubai.png",
+        "name": "Dubai"
+    },
+    {
+        "src": "./assets/hat/Viking.png",
+        "name": "Viking"
+    },
+    {
+        "src": "./assets/hat/Sock.png",
+        "name": "Sock"
+    },
+    {
+        "src": "./assets/hat/Bear.png",
+        "name": "Bear"
+    },
+    {
+        "src": "./assets/hat/Hair-bow.png",
+        "name": "Hair-bow"
+    },
+    {
+        "src": "./assets/hat/Purple-phat.png",
+        "name": "Purple-phat"
+    },
+    {
+        "src": "./assets/eyes/Dank-glasses.png",
+        "name": "Dank-glasses"
+    },
+    {
+        "src": "./assets/eyes/Freckles.png",
+        "name": "Freckles"
+    },
+    {
+        "src": "./assets/eyes/Neutral.png",
+        "name": "Neutral"
+    },
+    {
+        "src": "./assets/eyes/Coder.png",
+        "name": "Coder"
+    },
+    {
+        "src": "./assets/eyes/Dark-mask.png",
+        "name": "Dark-mask"
+    },
+    {
+        "src": "./assets/eyes/Red-mask.png",
+        "name": "Red-mask"
+    },
+    {
+        "src": "./assets/eyes/Mi-vida-loca.png",
+        "name": "Mi-vida-loca"
+    },
+    {
+        "src": "./assets/eyes/Bitty.png",
+        "name": "Bitty"
+    },
+    {
+        "src": "./assets/eyes/Cross-eyes.png",
+        "name": "Cross-eyes"
+    },
+    {
+        "src": "./assets/eyes/Mog-glasses.png",
+        "name": "Mog-glasses"
+    },
+    {
+        "src": "./assets/eyes/Dark-shades.png",
+        "name": "Dark-shades"
+    },
+    {
+        "src": "./assets/eyes/Ording.png",
+        "name": "Ording"
+    },
+    {
+        "src": "./assets/eyes/3d.png",
+        "name": "3d"
+    },
+    {
+        "src": "./assets/eyes/Shooting-glasses.png",
+        "name": "Shooting-glasses"
+    },
+    {
+        "src": "./assets/eyes/Peppy.png",
+        "name": "Peppy"
+    },
+    {
+        "src": "./assets/eyes/Vr.png",
+        "name": "Vr"
+    },
+    {
+        "src": "./assets/eyes/Derp.png",
+        "name": "Derp"
+    },
+    {
+        "src": "./assets/eyes/Pep.png",
+        "name": "Pep"
+    },
+    {
+        "src": "./assets/eyes/Ord-glasses.png",
+        "name": "Ord-glasses"
+    },
+    {
+        "src": "./assets/eyes/Glasses.png",
+        "name": "Glasses"
+    }
+]
