@@ -8,12 +8,24 @@
         "name": "bitcoin"
     },
     {
+        "src": "assets/funny-money/wolf-of-wall-street-jordan-belfort.png",
+        "name": "wolf-of-wall-street-jordan-belfort"
+    },
+    {
         "src": "assets/funny-money/gary-gensler.png",
         "name": "gary-gensler"
     },
     {
+        "src": "assets/funny-money/solana-logo.png",
+        "name": "solana-logo"
+    },
+    {
         "src": "assets/funny-money/pepe-bull.png",
         "name": "pepe-bull"
+    },
+    {
+        "src": "assets/funny-money/ethereum logo.png",
+        "name": "ethereum logo"
     },
     {
         "src": "assets/funny-money/bitcoin-logo.png",
