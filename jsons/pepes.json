@@ -8,6 +8,10 @@
         "name": "pepe-bull"
     },
     {
+        "src": "assets/pepes/comfy.png",
+        "name": "comfy"
+    },
+    {
         "src": "assets/pepes/despair-crying.PNG",
         "name": "despair-crying"
     },

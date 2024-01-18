@@ -4,6 +4,10 @@
         "name": "slurp-soyjack"
     },
     {
+        "src": "assets/funny-money/bear-bobo.png",
+        "name": "bear-bobo"
+    },
+    {
         "src": "assets/funny-money/bitcoin.png",
         "name": "bitcoin"
     },
@@ -34,5 +38,17 @@
     {
         "src": "assets/funny-money/meme-chart.png",
         "name": "meme-chart"
+    },
+    {
+        "src": "assets/funny-money/donald-trump.png",
+        "name": "donald-trump"
+    },
+    {
+        "src": "assets/funny-money/bog-dump-it.png",
+        "name": "bog-dump-it"
+    },
+    {
+        "src": "assets/funny-money/bear-bobo-laugh.png",
+        "name": "bear-bobo-laugh"
     }
 ]
