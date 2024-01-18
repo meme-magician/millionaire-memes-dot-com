@@ -4,7 +4,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Load images from JSON file
     function loadImages() {
-        fetch('images.json')
+        const gallery = document.getElementById('gallery');
+        const jsonFilePath = gallery.dataset.json;
+        fetch(jsonFilePath)
             .then(response => response.json())
             .then(images => {
                 displayImages(images);
@@ -15,6 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 // Function to display images
 function displayImages(images) {
+    shuffleArray(images);
     gallery.innerHTML = '';
     images.forEach(image => {
         const div = document.createElement('div');
@@ -80,7 +83,9 @@ function filterImages(images) {
 
     // Event listener for search input
     searchInput.addEventListener('input', () => {
-        fetch('images.json')
+        const gallery = document.getElementById('gallery');
+        const jsonFilePath = gallery.dataset.json;
+        fetch(jsonFilePath)
             .then(response => response.json())
             .then(images => {
                 filterImages(images);
@@ -93,3 +98,45 @@ function filterImages(images) {
     // Initially load all images
     loadImages();
 });
+
+// Function to shuffle array
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+
+// Create a new nav element
+var nav = document.createElement('nav');
+
+// Create links for the nav
+var link1 = document.createElement('a');
+link1.href = 'index.html';
+link1.textContent = 'home';
+
+var link2 = document.createElement('a');
+link2.href = 'bitcoin-puppets.html';
+link2.textContent = 'bitcoin-puppets';
+
+var link3 = document.createElement('a');
+link3.href = 'funny-money.html';
+link3.textContent = 'funny-money';
+
+var link4 = document.createElement('a');
+link4.href = 'pepes.html';
+link4.textContent = 'pepes';
+
+var link5 = document.createElement('a');
+link5.href = 'contact.html';
+link5.textContent = 'contact (send-me-your-edits)';
+
+// Append links to the nav
+nav.appendChild(link1);
+nav.appendChild(link2);
+nav.appendChild(link3);
+nav.appendChild(link4);
+nav.appendChild(link5);
+
+// Append the nav to the header
+document.querySelector('header').appendChild(nav);
