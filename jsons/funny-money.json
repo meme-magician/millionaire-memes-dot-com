@@ -8,6 +8,10 @@
         "name": "gary-gensler"
     },
     {
+        "src": "assets/funny-money/pepe-bull.png",
+        "name": "pepe-bull"
+    },
+    {
         "src": "assets/funny-money/meme-chart.png",
         "name": "meme-chart"
     }

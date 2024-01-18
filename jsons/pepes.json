@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "src": "assets/pepes/island-boys.PNG",
+        "name": "island-boys"
+    },
+    {
+        "src": "assets/pepes/pepe-bull.png",
+        "name": "pepe-bull"
+    },
+    {
+        "src": "assets/pepes/despair-crying.PNG",
+        "name": "despair-crying"
+    },
+    {
+        "src": "assets/pepes/sunglasses-cool.JPG",
+        "name": "sunglasses-cool"
+    },
+    {
+        "src": "assets/pepes/tuxedo-wine-cheers.png",
+        "name": "tuxedo-wine-cheers"
+    }
+]
