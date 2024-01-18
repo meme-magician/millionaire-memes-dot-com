@@ -4,12 +4,20 @@
         "name": "slurp-soyjack"
     },
     {
+        "src": "assets/funny-money/bitcoin.png",
+        "name": "bitcoin"
+    },
+    {
         "src": "assets/funny-money/gary-gensler.png",
         "name": "gary-gensler"
     },
     {
         "src": "assets/funny-money/pepe-bull.png",
         "name": "pepe-bull"
+    },
+    {
+        "src": "assets/funny-money/bitcoin-logo.png",
+        "name": "bitcoin-logo"
     },
     {
         "src": "assets/funny-money/meme-chart.png",
