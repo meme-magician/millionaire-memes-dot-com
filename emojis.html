@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>emojis</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.png" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1>emojis</h1>
+        <input type="text" id="searchInput" placeholder="Search assets...">
+    </header>
+    <div id="gallery" data-json="./jsons/emojis.json">
+        <!-- Images will be loaded here -->
+    </div>
+    <footer style="background-color: #333; color: white; text-align: center; padding: 10px;">
+        copyright © 2024 millionaire memes
+    </footer>
+    <div id="copied-popup" style="display: none;">Copied!</div>
+    <script src="script.js"></script>
+</body>
+</html>
