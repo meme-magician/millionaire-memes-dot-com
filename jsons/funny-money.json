@@ -16,6 +16,10 @@
         "name": "pepe-buying-dips"
     },
     {
+        "src": "assets/funny-money/lazer-eyes.png",
+        "name": "lazer-eyes"
+    },
+    {
         "src": "assets/funny-money/wolf-of-wall-street-jordan-belfort.png",
         "name": "wolf-of-wall-street-jordan-belfort"
     },
@@ -38,6 +42,10 @@
     {
         "src": "assets/funny-money/vitalik-money-skelly.png",
         "name": "vitalik-money-skelly"
+    },
+    {
+        "src": "assets/funny-money/do-kwon.png",
+        "name": "do-kwon"
     },
     {
         "src": "assets/funny-money/angry-pink-wojak.png",
@@ -80,8 +88,16 @@
         "name": "donald-trump"
     },
     {
+        "src": "assets/funny-money/eth-rocket.png",
+        "name": "eth-rocket"
+    },
+    {
         "src": "assets/funny-money/bog-dump-it.png",
         "name": "bog-dump-it"
+    },
+    {
+        "src": "assets/funny-money/bear-with-bull-hat.png",
+        "name": "bear-with-bull-hat"
     },
     {
         "src": "assets/funny-money/100-dollar-bill.png",
@@ -90,6 +106,10 @@
     {
         "src": "assets/funny-money/bear-bobo-laugh.png",
         "name": "bear-bobo-laugh"
+    },
+    {
+        "src": "assets/funny-money/bear exploding.png",
+        "name": "bear exploding"
     },
     {
         "src": "assets/funny-money/runescape-gp-coins.png",
@@ -102,6 +122,10 @@
     {
         "src": "assets/funny-money/dabbing-bull-mumu.png",
         "name": "dabbing-bull-mumu"
+    },
+    {
+        "src": "assets/funny-money/bear-crying-bobo.png",
+        "name": "bear-crying-bobo"
     },
     {
         "src": "assets/funny-money/michael-saylor-microstrategy.png",
