@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.getElementById('searchInput');
     const gallery = document.getElementById('gallery');
@@ -101,6 +102,7 @@ function filterImages(images) {
 
 // Function to shuffle array
 function shuffleArray(array) {
+    return array;
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [array[i], array[j]] = [array[j], array[i]];
@@ -131,6 +133,11 @@ var link4 = document.createElement('a');
 link4.href = 'pepes.html';
 link4.textContent = 'pepes';
 
+var emojis = document.createElement('a');
+emojis.href = 'emojis.html';
+emojis.textContent = 'emojis';
+
+
 var link5 = document.createElement('a');
 link5.href = 'contact.html';
 link5.textContent = 'contact (send-me-your-edits)';
@@ -141,7 +148,21 @@ nav.appendChild(link1point5)
 nav.appendChild(link2);
 nav.appendChild(link3);
 nav.appendChild(link4);
+nav.appendChild(emojis);
 nav.appendChild(link5);
 
 // Append the nav to the header
 document.querySelector('header').appendChild(nav);
+
+// Get all nav links
+var navLinks = document.querySelectorAll('nav a');
+
+// Get current page URL
+var currentPageUrl = window.location.href;
+
+navLinks.forEach(function(link) {
+    if (link.href === currentPageUrl) {
+        // Add 'active' class to the current page link
+        link.classList.add('active');
+    }
+});

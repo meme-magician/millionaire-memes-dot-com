@@ -1,0 +1,75 @@
+# Query: millionaire memes
+# ContextLines: 1
+
+16 results - 7 files
+
+bitcoin-puppets.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>💰millionaire memes💰</title>
+   7      <link rel="stylesheet" href="styles.css">
+
+  11      <header>
+  12:         <h1>💰millionaire memes💰</h1>
+  13          <input type="text" id="searchInput" placeholder="Search assets...">
+
+  26      <footer style="background-color: #333; color: white; text-align: center; padding: 10px;">
+  27:         copyright © 2024 💰millionaire memes💰
+  28      </footer>
+
+contact.html:
+  24      <footer style="background-color: #333; color: white; text-align: center; padding: 10px;">
+  25:         copyright © 2024 💰millionaire memes💰
+  26      </footer>
+
+emojis.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>💰millionaire memes💰</title>
+   7      <link rel="stylesheet" href="styles.css">
+
+  11      <header>
+  12:         <h1>💰millionaire memes💰</h1>
+  13          <input type="text" id="searchInput" placeholder="Search assets...">
+
+  18      <footer style="background-color: #333; color: white; text-align: center; padding: 10px;">
+  19:         copyright © 2024 💰millionaire memes💰
+  20      </footer>
+
+funny-money.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>💰millionaire memes💰</title>
+   7      <link rel="stylesheet" href="styles.css">
+
+  11      <header>
+  12:         <h1>💰millionaire memes💰</h1>
+  13          <input type="text" id="searchInput" placeholder="Search assets...">
+
+  18      <footer style="background-color: #333; color: white; text-align: center; padding: 10px;">
+  19:         copyright © 2024 💰millionaire memes💰
+  20      </footer>
+
+index.html:
+  31      <footer style="background-color: #333; color: white; text-align: center; padding: 10px;">
+  32:         copyright © 2024 💰millionaire memes💰
+  33      </footer>
+
+pepes.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>💰millionaire memes💰</title>
+   7      <link rel="stylesheet" href="styles.css">
+
+  11      <header>
+  12:         <h1>💰millionaire memes💰</h1>
+  13          <input type="text" id="searchInput" placeholder="Search assets...">
+
+  18      <footer style="background-color: #333; color: white; text-align: center; padding: 10px;">
+  19:         copyright © 2024 💰millionaire memes💰
+  20      </footer>
+
+pics-that-go-hard.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>💰millionaire memes💰</title>
+   7      <link rel="stylesheet" href="styles.css">
+
+  18      <footer style="background-color: #333; color: white; text-align: center; padding: 10px;">
+  19:         copyright © 2024 💰millionaire memes💰
+  20      </footer>

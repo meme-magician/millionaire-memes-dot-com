@@ -1,6 +1,10 @@
 [
     {
-        "src": "assets/emojis/for_respected_user.png",
-        "name": "for_respected_user"
+        "src": "assets/emojis/crazy.png",
+        "name": "crazy"
+    },
+    {
+        "src": "assets/emojis/skull-1.png",
+        "name": "skull-1"
     }
 ]
