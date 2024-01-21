@@ -116,17 +116,17 @@ var link1 = document.createElement('a');
 link1.href = 'index.html';
 link1.textContent = 'home';
 
-link1point5 = document.createElement('a');
-link1point5.href = 'pics-that-go-hard.html';
-link1point5.textContent = 'pics-that-go-hard';
+var popular = document.createElement('a');
+popular.href = 'popular-shitcoins.html';
+popular.textContent = 'popular-shitcoins';
 
 var link2 = document.createElement('a');
 link2.href = 'bitcoin-puppets.html';
 link2.textContent = 'bitcoin-puppets';
 
 var link3 = document.createElement('a');
-link3.href = 'funny-money.html';
-link3.textContent = 'funny-money';
+link3.href = 'crypto.html';
+link3.textContent = 'crypto';
 
 var link4 = document.createElement('a');
 link4.href = 'pepes.html';
@@ -143,7 +143,7 @@ link5.textContent = 'contact (send-me-your-edits)';
 
 // Append links to the nav
 nav.appendChild(link1);
-nav.appendChild(link1point5)
+nav.appendChild(popular);
 nav.appendChild(link2);
 nav.appendChild(link3);
 nav.appendChild(link4);

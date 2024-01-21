@@ -102,7 +102,12 @@ nav a.active {
     color: #ff6347; /* Change this to the color you want */
 }
 
-#index-page {
+#index-page  {
+    background-image: url('gary-one-hunnit.png');
+    background-repeat: repeat;
+    background-size: 20% auto;
+}
+#contact-page{
     background-image: url('gary-one-hunnit.png');
     background-repeat: repeat;
     background-size: 20% auto;
