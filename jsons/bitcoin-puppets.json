@@ -336,6 +336,70 @@
         "name": "Pipe"
     },
     {
+        "src": "assets/bitcoin-puppets/heads/beanie-head.png",
+        "name": "beanie-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/bambo-hat-head.png",
+        "name": "bambo-hat-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/cigar-head.png",
+        "name": "cigar-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/shooting-glasses-head.png",
+        "name": "shooting-glasses-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/gnome-hat.png",
+        "name": "gnome-hat"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/wizard-hat-head.png",
+        "name": "wizard-hat-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/green-phat-head.png",
+        "name": "green-phat-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/grand-autismo-head.png",
+        "name": "grand-autismo-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/opium-hat.png",
+        "name": "opium-hat"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/dunce-head.png",
+        "name": "dunce-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/ice-cream-head.png",
+        "name": "ice-cream-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/cock-cap-head.png",
+        "name": "cock-cap-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/purple-cap-backwards-head.png",
+        "name": "purple-cap-backwards-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/white-phat-head.png",
+        "name": "white-phat-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/dank-glasses-head.png",
+        "name": "dank-glasses-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/flower-head.png",
+        "name": "flower-head"
+    },
+    {
         "src": "assets/bitcoin-puppets/hat/Chique-hat.png",
         "name": "Chique-hat"
     },
