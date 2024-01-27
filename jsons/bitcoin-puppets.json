@@ -336,6 +336,10 @@
         "name": "Pipe"
     },
     {
+        "src": "assets/bitcoin-puppets/heads/danny-charts-head.png",
+        "name": "danny-charts-head"
+    },
+    {
         "src": "assets/bitcoin-puppets/heads/beanie-head.png",
         "name": "beanie-head"
     },
@@ -356,6 +360,10 @@
         "name": "gnome-hat"
     },
     {
+        "src": "assets/bitcoin-puppets/heads/boots-head.png",
+        "name": "boots-head"
+    },
+    {
         "src": "assets/bitcoin-puppets/heads/wizard-hat-head.png",
         "name": "wizard-hat-head"
     },
@@ -364,12 +372,20 @@
         "name": "green-phat-head"
     },
     {
+        "src": "assets/bitcoin-puppets/heads/andy-awesome-head.png",
+        "name": "andy-awesome-head"
+    },
+    {
         "src": "assets/bitcoin-puppets/heads/grand-autismo-head.png",
         "name": "grand-autismo-head"
     },
     {
         "src": "assets/bitcoin-puppets/heads/opium-hat.png",
         "name": "opium-hat"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/tunt-head.png",
+        "name": "tunt-head"
     },
     {
         "src": "assets/bitcoin-puppets/heads/dunce-head.png",
@@ -382,6 +398,10 @@
     {
         "src": "assets/bitcoin-puppets/heads/cock-cap-head.png",
         "name": "cock-cap-head"
+    },
+    {
+        "src": "assets/bitcoin-puppets/heads/discipline-head.png",
+        "name": "discipline-head"
     },
     {
         "src": "assets/bitcoin-puppets/heads/purple-cap-backwards-head.png",
