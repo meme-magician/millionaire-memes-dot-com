@@ -1,86 +1,105 @@
-
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     const searchInput = document.getElementById('searchInput');
     const gallery = document.getElementById('gallery');
 
     // Load images from JSON file
-    function loadImages() {
+    function loadImages(folders) {
         const gallery = document.getElementById('gallery');
         const jsonFilePath = gallery.dataset.json;
         fetch(jsonFilePath)
             .then(response => response.json())
             .then(images => {
-                displayImages(images);
+                let filteredImages;
+                if (folders && folders.length > 0) {
+                    filteredImages = images.filter(image => folders.includes(image.folder));
+                } else {
+                    filteredImages = images;
+                }
+                displayImages(filteredImages);
             })
             .catch(error => {
                 console.error('Error loading images:', error);
             });
     }
-// Function to display images
-function displayImages(images) {
-    shuffleArray(images);
-    gallery.innerHTML = '';
-    images.forEach(image => {
-        const div = document.createElement('div');
-        div.className = 'gallery-item';
-        const img = document.createElement('img');
-        img.src = image.src;
-        img.alt = image.name;
-        div.appendChild(img);
-        const p = document.createElement('p');
-        p.textContent = image.name;
-        div.appendChild(p);
-        gallery.appendChild(div);
+    // Function to display images
+    function displayImages(images) {
+        shuffleArray(images);
+        gallery.innerHTML = '';
+        images.forEach(image => {
+            const div = document.createElement('div');
+            div.className = 'gallery-item';
+            const img = document.createElement('img');
+            img.src = image.src;
+            img.alt = image.name;
+            div.appendChild(img);
+            const p = document.createElement('p');
+            p.textContent = image.name;
+            div.appendChild(p);
+            gallery.appendChild(div);
 
-        // Add event listener to copy image to clipboard when clicked
-        addCopyEventListener(img, image.src);
-    });
-}
+            // Add event listener to copy image to clipboard when clicked
+            addCopyEventListener(img, image.src);
+        });
+    }
 
-// Function to add event listener to an image
-function addCopyEventListener(img, src) {
-    img.addEventListener('click', async () => {
-        const response = await fetch(src);
-        const blob = await response.blob();
-        const data = [new ClipboardItem({ [blob.type]: blob })];
-        navigator.clipboard.write(data)
-            .then(() => {
-                // Show the "Copied!" popup
-                document.getElementById('copied-popup').style.display = 'block';
-                // Hide the "Copied!" popup after 0.420 seconds
-                setTimeout(() => {
-                    document.getElementById('copied-popup').style.display = 'none';
-                }, 420);
-            })
-            .catch(console.error);
-    });
-}
+    const folderSelection = document.getElementById('folderSelection');
+    let selectedFolders = [];
 
-// Function to filter images
-function filterImages(images) {
-    const searchText = searchInput.value.toLowerCase();
-    const filteredImages = images.filter(image => image.name.toLowerCase().includes(searchText));
-    
-    // Clear the gallery
-    gallery.innerHTML = '';
+    if (folderSelection) {
+        folderSelection.addEventListener('change', function () {
+            const checkboxes = this.elements['folder'];
+            selectedFolders = Array.from(checkboxes).filter(checkbox => checkbox.checked).map(checkbox => checkbox.value);
+            loadImages(selectedFolders);
+        });
+    }
 
-    // Display the filtered images
-    filteredImages.forEach(image => {
-        const div = document.createElement('div');
-        div.className = 'gallery-item';
-        const img = document.createElement('img');
-        img.src = image.src;
-        img.alt = image.name;
-        div.appendChild(img);
-        const p = document.createElement('p');
-        p.textContent = image.name;
-        div.appendChild(p);
-        gallery.appendChild(div);
+    // Call loadImages on page load
+    loadImages(selectedFolders);
 
-        // Add event listener to copy image to clipboard when clicked
-        addCopyEventListener(img, image.src);
-    });
-}
+    // Function to add event listener to an image
+    function addCopyEventListener(img, src) {
+        img.addEventListener('click', async () => {
+            const response = await fetch(src);
+            const blob = await response.blob();
+            const data = [new ClipboardItem({ [blob.type]: blob })];
+            navigator.clipboard.write(data)
+                .then(() => {
+                    // Show the "Copied!" popup
+                    document.getElementById('copied-popup').style.display = 'block';
+                    // Hide the "Copied!" popup after 0.420 seconds
+                    setTimeout(() => {
+                        document.getElementById('copied-popup').style.display = 'none';
+                    }, 420);
+                })
+                .catch(console.error);
+        });
+    }
+
+    // Function to filter images
+    function filterImages(images) {
+        const searchText = searchInput.value.toLowerCase();
+        const filteredImages = images.filter(image => image.name.toLowerCase().includes(searchText));
+
+        // Clear the gallery
+        gallery.innerHTML = '';
+
+        // Display the filtered images
+        filteredImages.forEach(image => {
+            const div = document.createElement('div');
+            div.className = 'gallery-item';
+            const img = document.createElement('img');
+            img.src = image.src;
+            img.alt = image.name;
+            div.appendChild(img);
+            const p = document.createElement('p');
+            p.textContent = image.name;
+            div.appendChild(p);
+            gallery.appendChild(div);
+
+            // Add event listener to copy image to clipboard when clicked
+            addCopyEventListener(img, image.src);
+        });
+    }
 
     // Event listener for search input
     searchInput.addEventListener('input', () => {
@@ -159,7 +178,7 @@ var navLinks = document.querySelectorAll('nav a');
 // Get current page URL
 var currentPageUrl = window.location.href;
 
-navLinks.forEach(function(link) {
+navLinks.forEach(function (link) {
     if (link.href === currentPageUrl) {
         // Add 'active' class to the current page link
         link.classList.add('active');

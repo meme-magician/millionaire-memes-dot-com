@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,34 +11,74 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HRXHYH7MX7"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-HRXHYH7MX7');
+    gtag('config', 'G-HRXHYH7MX7');
 </script>
+
 <body>
     <header>
-        <h1>millionaire memes</h1>
+        <h1>💰millionaire memes💰</h1>
         <input type="text" id="searchInput" placeholder="Search assets...">
     </header>
+    <form id="folderSelection">
+        <label>
+            <input type="checkbox" name="folder" value="user-submitted">
+            user submitted
+        </label>
+        <label>
+            <input type="checkbox" name="folder" value="body">
+            body
+        </label>
+        <label>
+            <input type="checkbox" name="folder" value="eyes">
+            eyes
+        </label>
+        <label>
+            <input type="checkbox" name="folder" value="hats">
+            hats
+        </label>
+        <label>
+            <input type="checkbox" name="folder" value="heads">
+            heads
+        </label>
+        <label>
+            <input type="checkbox" name="folder" value="mouth">
+            mouth
+        </label>
+        <label>
+            <input type="checkbox" name="folder" value="shirts">
+            shirts
+        </label>
+        <!-- Add more checkboxes for each folder -->
+    </form>
     <div style="display: flex;">
-        <div style="display: flex; flex-direction: column; justify-content: space-around; position: fixed; left: 20px; top: 50%; transform: translateY(-50%);">
-            <a href="https://twitter.com/lepuppeteerfou" target="_blank"><img src="socials/x.webp" alt="X" style="max-width: 20px; max-height: 20px;"></a>
-            <a href="https://magiceden.io/ordinals/marketplace/bitcoin-puppets" target="_blank"><img src="socials/magic eden.png" alt="MagicEden" style="max-width: 20px; max-height: 20px;"></a>
-            <a href="https://discord.com/invite/F2BBWn2mzP" target="_blank"><img src="socials/discord.svg" alt="Discord" style="max-width: 20px; max-height: 20px;"></a>
-            <a href="https://ordpuppetinuundoxxedmillionaires.com/" target="_blank"><img src="socials/website.png" alt="Example" style="max-width: 20px; max-height: 20px;"></a>
+        <div
+            style="display: flex; flex-direction: column; justify-content: space-around; position: fixed; left: 20px; top: 50%; transform: translateY(-50%);">
+            <a href="https://twitter.com/lepuppeteerfou" target="_blank"><img src="socials/x.webp" alt="X"
+                    style="max-width: 20px; max-height: 20px;"></a>
+            <a href="https://magiceden.io/ordinals/marketplace/bitcoin-puppets" target="_blank"><img
+                    src="socials/magic eden.png" alt="MagicEden" style="max-width: 20px; max-height: 20px;"></a>
+            <a href="https://discord.com/invite/F2BBWn2mzP" target="_blank"><img src="socials/discord.svg" alt="Discord"
+                    style="max-width: 20px; max-height: 20px;"></a>
+            <a href="https://ordpuppetinuundoxxedmillionaires.com/" target="_blank"><img src="socials/website.png"
+                    alt="Example" style="max-width: 20px; max-height: 20px;"></a>
         </div>
+
         <div id="gallery" data-json="./jsons/bitcoin-puppets.json">
             <!-- Images will be loaded here -->
         </div>
     </div>
+    
     <footer style="background-color: #333; color: white; text-align: center; padding: 10px;">
-        send memes to <a style="color: white;" href="https://x.com/milionairememes">@milionairememes</a>  on x
+        send memes to <a style="color: white;" href="https://x.com/milionairememes">@milionairememes</a> on x
         <br>
         copyright © 2024 💰💰millionaire memes💰💰
     </footer>
     <div id="copied-popup" style="display: none;">Copied!</div>
     <script src="script.js"></script>
 </body>
+
 </html>

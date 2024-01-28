@@ -1,22 +1,27 @@
 [
     {
         "src": "assets/pepes/island-boys.PNG",
-        "name": "island-boys"
+        "name": "island-boys",
+        "folder": "pepes"
     },
     {
         "src": "assets/pepes/pepe-bull.png",
-        "name": "pepe-bull"
+        "name": "pepe-bull",
+        "folder": "pepes"
     },
     {
         "src": "assets/pepes/comfy.png",
-        "name": "comfy"
+        "name": "comfy",
+        "folder": "pepes"
     },
     {
         "src": "assets/pepes/despair-crying.PNG",
-        "name": "despair-crying"
+        "name": "despair-crying",
+        "folder": "pepes"
     },
     {
         "src": "assets/pepes/tuxedo-wine-cheers.png",
-        "name": "tuxedo-wine-cheers"
+        "name": "tuxedo-wine-cheers",
+        "folder": "pepes"
     }
 ]

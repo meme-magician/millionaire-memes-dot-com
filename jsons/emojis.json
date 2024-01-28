@@ -1,10 +1,12 @@
 [
     {
         "src": "assets/emojis/crazy.png",
-        "name": "crazy"
+        "name": "crazy",
+        "folder": "emojis"
     },
     {
         "src": "assets/emojis/skull-1.png",
-        "name": "skull-1"
+        "name": "skull-1",
+        "folder": "emojis"
     }
 ]

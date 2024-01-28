@@ -1,678 +1,847 @@
 [
     {
+        "src": "assets/bitcoin-puppets/hats/Chique-hat.png",
+        "name": "Chique-hat",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Mushroom.png",
+        "name": "Mushroom",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Headphones.png",
+        "name": "Headphones",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Purple-sweatband.png",
+        "name": "Purple-sweatband",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Dance.png",
+        "name": "Dance",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Flower-bucket.png",
+        "name": "Flower-bucket",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Top-hat.png",
+        "name": "Top-hat",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Bitcoin-crown.png",
+        "name": "Bitcoin-crown",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Occultist.png",
+        "name": "Occultist",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Strainer.png",
+        "name": "Strainer",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Bamboo-hat.png",
+        "name": "Bamboo-hat",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Ushanka.png",
+        "name": "Ushanka",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Miner.png",
+        "name": "Miner",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Grey-cap-backwards.png",
+        "name": "Grey-cap-backwards",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Pink-cap-backwards.png",
+        "name": "Pink-cap-backwards",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Pyjama-hat.png",
+        "name": "Pyjama-hat",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/White-phat.png",
+        "name": "White-phat",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Bitcoin-cap.png",
+        "name": "Bitcoin-cap",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Yellow-phat.png",
+        "name": "Yellow-phat",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Body.png",
+        "name": "Body",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Gnome-hat.png",
+        "name": "Gnome-hat",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Orange-beanie.png",
+        "name": "Orange-beanie",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Wizard-hat.png",
+        "name": "Wizard-hat",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Construction-helmet.png",
+        "name": "Construction-helmet",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Halo.png",
+        "name": "Halo",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Cooking-pan.png",
+        "name": "Cooking-pan",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Blue-phat.png",
+        "name": "Blue-phat",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Green-phat.png",
+        "name": "Green-phat",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Red-bandana.png",
+        "name": "Red-bandana",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Red-cap-backwards.png",
+        "name": "Red-cap-backwards",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Wif.png",
+        "name": "Wif",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Alien.png",
+        "name": "Alien",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Red-phat.png",
+        "name": "Red-phat",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Gray-beanie.png",
+        "name": "Gray-beanie",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Bandana.png",
+        "name": "Bandana",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Autism.png",
+        "name": "Autism",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Daisy-flower.png",
+        "name": "Daisy-flower",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Opium.png",
+        "name": "Opium",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Dubai.png",
+        "name": "Dubai",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Viking.png",
+        "name": "Viking",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Sock.png",
+        "name": "Sock",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Bear.png",
+        "name": "Bear",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Hair-bow.png",
+        "name": "Hair-bow",
+        "folder": "hats"
+    },
+    {
+        "src": "assets/bitcoin-puppets/hats/Purple-phat.png",
+        "name": "Purple-phat",
+        "folder": "hats"
+    },
+    {
         "src": "assets/bitcoin-puppets/shirts/Red-shirt.png",
-        "name": "Red-shirt"
+        "name": "Red-shirt",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Double-striped-shirt.png",
-        "name": "Double-striped-shirt"
+        "name": "Double-striped-shirt",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Hawaian.png",
-        "name": "Hawaian"
+        "name": "Hawaian",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Dungarees.png",
-        "name": "Dungarees"
+        "name": "Dungarees",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Casanova-pleb.png",
-        "name": "Casanova-pleb"
+        "name": "Casanova-pleb",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Green-jersery.png",
-        "name": "Green-jersery"
+        "name": "Green-jersery",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Inmate.png",
-        "name": "Inmate"
+        "name": "Inmate",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Packs.png",
-        "name": "Packs"
+        "name": "Packs",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Shef-life.png",
-        "name": "Shef-life"
+        "name": "Shef-life",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Time.png",
-        "name": "Time"
+        "name": "Time",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Casanova.png",
-        "name": "Casanova"
+        "name": "Casanova",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Pilkroad.png",
-        "name": "Pilkroad"
+        "name": "Pilkroad",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/No-2nd-best.png",
-        "name": "No-2nd-best"
+        "name": "No-2nd-best",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Bretels.png",
-        "name": "Bretels"
+        "name": "Bretels",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Peo.png",
-        "name": "Peo"
+        "name": "Peo",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Jacket.png",
-        "name": "Jacket"
+        "name": "Jacket",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Pimp.png",
-        "name": "Pimp"
+        "name": "Pimp",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Ketamine.png",
-        "name": "Ketamine"
+        "name": "Ketamine",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Bitcoin-monk.png",
-        "name": "Bitcoin-monk"
+        "name": "Bitcoin-monk",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Conviction.png",
-        "name": "Conviction"
+        "name": "Conviction",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Denim-jacket.png",
-        "name": "Denim-jacket"
+        "name": "Denim-jacket",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Partial-button-down.png",
-        "name": "Partial-button-down"
+        "name": "Partial-button-down",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Dungarees-brown.png",
-        "name": "Dungarees-brown"
+        "name": "Dungarees-brown",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Blue-denim-jacket.png",
-        "name": "Blue-denim-jacket"
+        "name": "Blue-denim-jacket",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Tie-dye.png",
-        "name": "Tie-dye"
+        "name": "Tie-dye",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Bathrobe.png",
-        "name": "Bathrobe"
+        "name": "Bathrobe",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Striped-shirt.png",
-        "name": "Striped-shirt"
+        "name": "Striped-shirt",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Dungarees-painter.png",
-        "name": "Dungarees-painter"
+        "name": "Dungarees-painter",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Memepool-shirt.png",
-        "name": "Memepool-shirt"
+        "name": "Memepool-shirt",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Toga2.png",
-        "name": "Toga2"
+        "name": "Toga2",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Bitcoin-shirt.png",
-        "name": "Bitcoin-shirt"
+        "name": "Bitcoin-shirt",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Op-return.png",
-        "name": "Op-return"
+        "name": "Op-return",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Bitcoin-bathrobe.png",
-        "name": "Bitcoin-bathrobe"
+        "name": "Bitcoin-bathrobe",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/God-likes-elephants.png",
-        "name": "God-likes-elephants"
+        "name": "God-likes-elephants",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Pup-fc.png",
-        "name": "Pup-fc"
+        "name": "Pup-fc",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Neat-shirt.png",
-        "name": "Neat-shirt"
+        "name": "Neat-shirt",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Finance-bro.png",
-        "name": "Finance-bro"
+        "name": "Finance-bro",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Ballin.png",
-        "name": "Ballin"
+        "name": "Ballin",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/shirts/Hoodie.png",
-        "name": "Hoodie"
+        "name": "Hoodie",
+        "folder": "shirts"
     },
     {
         "src": "assets/bitcoin-puppets/body/Bitcoin-staff.png",
-        "name": "Bitcoin-staff"
+        "name": "Bitcoin-staff",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Watch.png",
-        "name": "Watch"
+        "name": "Watch",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Zhengshan.png",
-        "name": "Zhengshan"
+        "name": "Zhengshan",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Red-pep-drink.png",
-        "name": "Red-pep-drink"
+        "name": "Red-pep-drink",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Wossum.png",
-        "name": "Wossum"
+        "name": "Wossum",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Crayons.png",
-        "name": "Crayons"
+        "name": "Crayons",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Memepool.png",
-        "name": "Memepool"
+        "name": "Memepool",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Keyboard.png",
-        "name": "Keyboard"
+        "name": "Keyboard",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Sin-note.png",
-        "name": "Sin-note"
+        "name": "Sin-note",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Body.png",
-        "name": "Body"
+        "name": "Body",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Beans.png",
-        "name": "Beans"
+        "name": "Beans",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Chefs-spatula.png",
-        "name": "Chefs-spatula"
+        "name": "Chefs-spatula",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Hot-dog.png",
-        "name": "Hot-dog"
+        "name": "Hot-dog",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Hamburger.png",
-        "name": "Hamburger"
+        "name": "Hamburger",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Beer.png",
-        "name": "Beer"
+        "name": "Beer",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Wine.png",
-        "name": "Wine"
+        "name": "Wine",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Choco-milk.png",
-        "name": "Choco-milk"
+        "name": "Choco-milk",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Plush-bunny.png",
-        "name": "Plush-bunny"
+        "name": "Plush-bunny",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Running-bitcoin.png",
-        "name": "Running-bitcoin"
+        "name": "Running-bitcoin",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Coffee-time.png",
-        "name": "Coffee-time"
+        "name": "Coffee-time",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Ramen.png",
-        "name": "Ramen"
+        "name": "Ramen",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Ice-cream.png",
-        "name": "Ice-cream"
+        "name": "Ice-cream",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Ban-hammer.png",
-        "name": "Ban-hammer"
+        "name": "Ban-hammer",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Glue.png",
-        "name": "Glue"
+        "name": "Glue",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Pep-drink.png",
-        "name": "Pep-drink"
+        "name": "Pep-drink",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Chefs-knife.png",
-        "name": "Chefs-knife"
+        "name": "Chefs-knife",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Vanilla-goblet.png",
-        "name": "Vanilla-goblet"
+        "name": "Vanilla-goblet",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Banana.png",
-        "name": "Banana"
+        "name": "Banana",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Handheld.png",
-        "name": "Handheld"
+        "name": "Handheld",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Car-keys.png",
-        "name": "Car-keys"
+        "name": "Car-keys",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Skateboard.png",
-        "name": "Skateboard"
+        "name": "Skateboard",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Pizza.png",
-        "name": "Pizza"
+        "name": "Pizza",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Bong.png",
-        "name": "Bong"
+        "name": "Bong",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Toilet-paper.png",
-        "name": "Toilet-paper"
+        "name": "Toilet-paper",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Shadowy-figure.png",
-        "name": "Shadowy-figure"
+        "name": "Shadowy-figure",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Purple-drink.png",
-        "name": "Purple-drink"
+        "name": "Purple-drink",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Staff.png",
-        "name": "Staff"
+        "name": "Staff",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Weed.png",
-        "name": "Weed"
+        "name": "Weed",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Candle-stick.png",
-        "name": "Candle-stick"
+        "name": "Candle-stick",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/body/Bag.png",
-        "name": "Bag"
+        "name": "Bag",
+        "folder": "body"
     },
     {
         "src": "assets/bitcoin-puppets/mouth/Vanilla.png",
-        "name": "Vanilla"
+        "name": "Vanilla",
+        "folder": "mouth"
     },
     {
         "src": "assets/bitcoin-puppets/mouth/Cigarette.png",
-        "name": "Cigarette"
+        "name": "Cigarette",
+        "folder": "mouth"
     },
     {
         "src": "assets/bitcoin-puppets/mouth/Cigar.png",
-        "name": "Cigar"
+        "name": "Cigar",
+        "folder": "mouth"
     },
     {
         "src": "assets/bitcoin-puppets/mouth/Rainbow-puke.png",
-        "name": "Rainbow-puke"
+        "name": "Rainbow-puke",
+        "folder": "mouth"
     },
     {
         "src": "assets/bitcoin-puppets/mouth/Pipe.png",
-        "name": "Pipe"
-    },
-    {
-        "src": "assets/bitcoin-puppets/heads/danny-charts-head.png",
-        "name": "danny-charts-head"
+        "name": "Pipe",
+        "folder": "mouth"
     },
     {
         "src": "assets/bitcoin-puppets/heads/beanie-head.png",
-        "name": "beanie-head"
+        "name": "beanie-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/bambo-hat-head.png",
-        "name": "bambo-hat-head"
+        "name": "bambo-hat-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/cigar-head.png",
-        "name": "cigar-head"
+        "name": "cigar-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/shooting-glasses-head.png",
-        "name": "shooting-glasses-head"
+        "name": "shooting-glasses-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/gnome-hat.png",
-        "name": "gnome-hat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/heads/boots-head.png",
-        "name": "boots-head"
+        "name": "gnome-hat",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/wizard-hat-head.png",
-        "name": "wizard-hat-head"
+        "name": "wizard-hat-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/green-phat-head.png",
-        "name": "green-phat-head"
-    },
-    {
-        "src": "assets/bitcoin-puppets/heads/andy-awesome-head.png",
-        "name": "andy-awesome-head"
+        "name": "green-phat-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/grand-autismo-head.png",
-        "name": "grand-autismo-head"
+        "name": "grand-autismo-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/opium-hat.png",
-        "name": "opium-hat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/heads/tunt-head.png",
-        "name": "tunt-head"
+        "name": "opium-hat",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/dunce-head.png",
-        "name": "dunce-head"
+        "name": "dunce-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/ice-cream-head.png",
-        "name": "ice-cream-head"
+        "name": "ice-cream-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/cock-cap-head.png",
-        "name": "cock-cap-head"
-    },
-    {
-        "src": "assets/bitcoin-puppets/heads/discipline-head.png",
-        "name": "discipline-head"
+        "name": "cock-cap-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/purple-cap-backwards-head.png",
-        "name": "purple-cap-backwards-head"
+        "name": "purple-cap-backwards-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/white-phat-head.png",
-        "name": "white-phat-head"
+        "name": "white-phat-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/dank-glasses-head.png",
-        "name": "dank-glasses-head"
+        "name": "dank-glasses-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/heads/flower-head.png",
-        "name": "flower-head"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Chique-hat.png",
-        "name": "Chique-hat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Mushroom.png",
-        "name": "Mushroom"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Headphones.png",
-        "name": "Headphones"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Purple-sweatband.png",
-        "name": "Purple-sweatband"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Dance.png",
-        "name": "Dance"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Flower-bucket.png",
-        "name": "Flower-bucket"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Top-hat.png",
-        "name": "Top-hat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Bitcoin-crown.png",
-        "name": "Bitcoin-crown"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Occultist.png",
-        "name": "Occultist"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Strainer.png",
-        "name": "Strainer"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Bamboo-hat.png",
-        "name": "Bamboo-hat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Ushanka.png",
-        "name": "Ushanka"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Miner.png",
-        "name": "Miner"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Grey-cap-backwards.png",
-        "name": "Grey-cap-backwards"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Pink-cap-backwards.png",
-        "name": "Pink-cap-backwards"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Pyjama-hat.png",
-        "name": "Pyjama-hat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/White-phat.png",
-        "name": "White-phat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Bitcoin-cap.png",
-        "name": "Bitcoin-cap"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Yellow-phat.png",
-        "name": "Yellow-phat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Body.png",
-        "name": "Body"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Gnome-hat.png",
-        "name": "Gnome-hat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Orange-beanie.png",
-        "name": "Orange-beanie"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Wizard-hat.png",
-        "name": "Wizard-hat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Construction-helmet.png",
-        "name": "Construction-helmet"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Halo.png",
-        "name": "Halo"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Cooking-pan.png",
-        "name": "Cooking-pan"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Blue-phat.png",
-        "name": "Blue-phat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Green-phat.png",
-        "name": "Green-phat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Red-bandana.png",
-        "name": "Red-bandana"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Red-cap-backwards.png",
-        "name": "Red-cap-backwards"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Wif.png",
-        "name": "Wif"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Alien.png",
-        "name": "Alien"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Red-phat.png",
-        "name": "Red-phat"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Gray-beanie.png",
-        "name": "Gray-beanie"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Bandana.png",
-        "name": "Bandana"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Autism.png",
-        "name": "Autism"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Daisy-flower.png",
-        "name": "Daisy-flower"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Opium.png",
-        "name": "Opium"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Dubai.png",
-        "name": "Dubai"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Viking.png",
-        "name": "Viking"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Sock.png",
-        "name": "Sock"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Bear.png",
-        "name": "Bear"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Hair-bow.png",
-        "name": "Hair-bow"
-    },
-    {
-        "src": "assets/bitcoin-puppets/hat/Purple-phat.png",
-        "name": "Purple-phat"
+        "name": "flower-head",
+        "folder": "heads"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Dank-glasses.png",
-        "name": "Dank-glasses"
+        "name": "Dank-glasses",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Freckles.png",
-        "name": "Freckles"
+        "name": "Freckles",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Neutral.png",
-        "name": "Neutral"
+        "name": "Neutral",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Coder.png",
-        "name": "Coder"
+        "name": "Coder",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Dark-mask.png",
-        "name": "Dark-mask"
+        "name": "Dark-mask",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Red-mask.png",
-        "name": "Red-mask"
+        "name": "Red-mask",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Mi-vida-loca.png",
-        "name": "Mi-vida-loca"
+        "name": "Mi-vida-loca",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Bitty.png",
-        "name": "Bitty"
+        "name": "Bitty",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Cross-eyes.png",
-        "name": "Cross-eyes"
+        "name": "Cross-eyes",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Mog-glasses.png",
-        "name": "Mog-glasses"
+        "name": "Mog-glasses",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Dark-shades.png",
-        "name": "Dark-shades"
+        "name": "Dark-shades",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Ording.png",
-        "name": "Ording"
+        "name": "Ording",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/3d.png",
-        "name": "3d"
+        "name": "3d",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Shooting-glasses.png",
-        "name": "Shooting-glasses"
+        "name": "Shooting-glasses",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Peppy.png",
-        "name": "Peppy"
+        "name": "Peppy",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Vr.png",
-        "name": "Vr"
+        "name": "Vr",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Derp.png",
-        "name": "Derp"
+        "name": "Derp",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Pep.png",
-        "name": "Pep"
+        "name": "Pep",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Ord-glasses.png",
-        "name": "Ord-glasses"
+        "name": "Ord-glasses",
+        "folder": "eyes"
     },
     {
         "src": "assets/bitcoin-puppets/eyes/Glasses.png",
-        "name": "Glasses"
+        "name": "Glasses",
+        "folder": "eyes"
+    },
+    {
+        "src": "assets/bitcoin-puppets/user-submitted/danny-charts-head.png",
+        "name": "danny-charts-head",
+        "folder": "user-submitted"
+    },
+    {
+        "src": "assets/bitcoin-puppets/user-submitted/boots-head.png",
+        "name": "boots-head",
+        "folder": "user-submitted"
+    },
+    {
+        "src": "assets/bitcoin-puppets/user-submitted/andy-awesome-head.png",
+        "name": "andy-awesome-head",
+        "folder": "user-submitted"
+    },
+    {
+        "src": "assets/bitcoin-puppets/user-submitted/tunt-head.png",
+        "name": "tunt-head",
+        "folder": "user-submitted"
+    },
+    {
+        "src": "assets/bitcoin-puppets/user-submitted/discipline-head.png",
+        "name": "discipline-head",
+        "folder": "user-submitted"
     }
 ]

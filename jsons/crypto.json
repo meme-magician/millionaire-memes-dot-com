@@ -1,130 +1,162 @@
 [
     {
         "src": "assets/crypto/slurp-soyjack.png",
-        "name": "slurp-soyjack"
+        "name": "slurp-soyjack",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/bear-bobo.png",
-        "name": "bear-bobo"
+        "name": "bear-bobo",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/bitcoin.png",
-        "name": "bitcoin"
+        "name": "bitcoin",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/pepe-buying-dips.png",
-        "name": "pepe-buying-dips"
+        "name": "pepe-buying-dips",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/wolf-of-wall-street-jordan-belfort.png",
-        "name": "wolf-of-wall-street-jordan-belfort"
+        "name": "wolf-of-wall-street-jordan-belfort",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/USA-united-states.png",
-        "name": "USA-united-states"
+        "name": "USA-united-states",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/gary-gensler.png",
-        "name": "gary-gensler"
+        "name": "gary-gensler",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/solana-logo.png",
-        "name": "solana-logo"
+        "name": "solana-logo",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/pepe-bull.png",
-        "name": "pepe-bull"
+        "name": "pepe-bull",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/vitalik-money-skelly.png",
-        "name": "vitalik-money-skelly"
+        "name": "vitalik-money-skelly",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/do-kwon.png",
-        "name": "do-kwon"
+        "name": "do-kwon",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/angry-pink-wojak.png",
-        "name": "angry-pink-wojak"
+        "name": "angry-pink-wojak",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/snail-until-100k.png",
-        "name": "snail-until-100k"
+        "name": "snail-until-100k",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/bitcoin-logo.png",
-        "name": "bitcoin-logo"
+        "name": "bitcoin-logo",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/meme-chart.png",
-        "name": "meme-chart"
+        "name": "meme-chart",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/bull-pepe-2.png",
-        "name": "bull-pepe-2"
+        "name": "bull-pepe-2",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/cool-bear-bobo.png",
-        "name": "cool-bear-bobo"
+        "name": "cool-bear-bobo",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/satoshi.png",
-        "name": "satoshi"
+        "name": "satoshi",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/elon-musk.png",
-        "name": "elon-musk"
+        "name": "elon-musk",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/donald-trump.png",
-        "name": "donald-trump"
+        "name": "donald-trump",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/eth-rocket.png",
-        "name": "eth-rocket"
+        "name": "eth-rocket",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/bog-dump-it.png",
-        "name": "bog-dump-it"
+        "name": "bog-dump-it",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/ethereum-logo.png",
-        "name": "ethereum-logo"
+        "name": "ethereum-logo",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/bear-with-bull-hat.png",
-        "name": "bear-with-bull-hat"
+        "name": "bear-with-bull-hat",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/100-dollar-bill.png",
-        "name": "100-dollar-bill"
+        "name": "100-dollar-bill",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/bear-bobo-laugh.png",
-        "name": "bear-bobo-laugh"
+        "name": "bear-bobo-laugh",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/bear exploding.png",
-        "name": "bear exploding"
+        "name": "bear exploding",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/runescape-gp-coins.png",
-        "name": "runescape-gp-coins"
+        "name": "runescape-gp-coins",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/larry-fink-blackrock.png",
-        "name": "larry-fink-blackrock"
+        "name": "larry-fink-blackrock",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/dabbing-bull-mumu.png",
-        "name": "dabbing-bull-mumu"
+        "name": "dabbing-bull-mumu",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/bear-crying-bobo.png",
-        "name": "bear-crying-bobo"
+        "name": "bear-crying-bobo",
+        "folder": "crypto"
     },
     {
         "src": "assets/crypto/michael-saylor-microstrategy.png",
-        "name": "michael-saylor-microstrategy"
+        "name": "michael-saylor-microstrategy",
+        "folder": "crypto"
     }
 ]
