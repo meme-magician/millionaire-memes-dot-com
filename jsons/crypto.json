@@ -75,13 +75,28 @@
         "folder": "crypto"
     },
     {
+        "src": "assets/crypto/cramer-4.png",
+        "name": "cramer-4",
+        "folder": "crypto"
+    },
+    {
         "src": "assets/crypto/bull-pepe-2.png",
         "name": "bull-pepe-2",
         "folder": "crypto"
     },
     {
+        "src": "assets/crypto/cramer-1.png",
+        "name": "cramer-1",
+        "folder": "crypto"
+    },
+    {
         "src": "assets/crypto/cool-bear-bobo.png",
         "name": "cool-bear-bobo",
+        "folder": "crypto"
+    },
+    {
+        "src": "assets/crypto/cramer-3.png",
+        "name": "cramer-3",
         "folder": "crypto"
     },
     {
@@ -92,6 +107,11 @@
     {
         "src": "assets/crypto/elon-musk.png",
         "name": "elon-musk",
+        "folder": "crypto"
+    },
+    {
+        "src": "assets/crypto/cramer-2.png",
+        "name": "cramer-2",
         "folder": "crypto"
     },
     {
