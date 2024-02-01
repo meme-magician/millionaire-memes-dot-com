@@ -25,11 +25,6 @@
         "folder": "popular-shitcoins"
     },
     {
-        "src": "assets/popular-shitcoins/for_valued_anon.png",
-        "name": "for_valued_anon",
-        "folder": "popular-shitcoins"
-    },
-    {
         "src": "assets/popular-shitcoins/popcat.png",
         "name": "popcat",
         "folder": "popular-shitcoins"
@@ -57,6 +52,11 @@
     {
         "src": "assets/popular-shitcoins/dog-wif-hat.png",
         "name": "dog-wif-hat",
+        "folder": "popular-shitcoins"
+    },
+    {
+        "src": "assets/popular-shitcoins/harambe.png",
+        "name": "harambe",
         "folder": "popular-shitcoins"
     },
     {
