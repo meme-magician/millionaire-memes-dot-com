@@ -843,5 +843,10 @@
         "src": "assets/bitcoin-puppets/user-submitted/discipline-head.png",
         "name": "discipline-head",
         "folder": "user-submitted"
+    },
+    {
+        "src": "assets/bitcoin-puppets/user-submitted/largeeyes00-head.png",
+        "name": "largeeyes00-head",
+        "folder": "user-submitted"
     }
 ]
