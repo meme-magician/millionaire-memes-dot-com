@@ -127,6 +127,8 @@ function shuffleArray(array) {
     }
 }
 
+/*
+
 // Create a new nav element
 var nav = document.createElement('nav');
 
@@ -184,3 +186,4 @@ navLinks.forEach(function (link) {
         link.classList.add('active');
     }
 });
+*/
